@@ -46,3 +46,4 @@ node test-local.js
 ---
 
 **准备好测试了吗？** 运行 `node test-local.js` 来验证您的 YAML 解析功能！
+start test
